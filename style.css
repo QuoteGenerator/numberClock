@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: black;
+    font-size: 15px;
+    color: white;
+}
+#seconds{
+    letter-spacing: 2px;
+}
+
